@@ -30,6 +30,8 @@
 ---If a class implements an interface and does not provide method bodies for all functions specified in the interface, then class must be declared abstract.
 
 ---A Java library example is, Comparator Interface. If a class implements this interface, then it can be used to sort a collection.
+
+
 ![GitHub Logo](extends.png)
 
 ## **Why do we use interface ?**
