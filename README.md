@@ -20,6 +20,8 @@
 
 ---Testing code is easy: Encapsulated code is easy to test for unit testing.
 
+This article is contributed by Harsh Agarwal. 
+
 ## **Interfaces**
 
 
@@ -61,3 +63,5 @@ The reason is, abstract classes may contain non-final variables, whereas variabl
 ---It is used to achieve multiple inheritance.
 
 ---It is used to achieve loose coupling.
+
+This article is contributed by Mehak Kumar. and Nitsdheerendra.
